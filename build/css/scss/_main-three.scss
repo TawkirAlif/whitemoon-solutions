@@ -1,0 +1,317 @@
+/* =========================== */
+/* START OF SUDIPTO CSS - 01-10-2019 */
+/* =========================== */
+
+/* PORTFOLIO DROP_APP PAGE */
+.drop-app-sec-1 { padding: 2rem 0 0 0; }
+.drop-banner-content-box {
+    width: calc(100% - 67%);
+    padding: 3rem 6rem 3rem 3rem;;
+    margin-left: 6%;
+    p{
+        font-size: 11px;
+        font-weight: 900;
+        margin-bottom: 2.5rem; 
+        letter-spacing: 0.14px;
+        text-transform: uppercase;
+    }
+    .content-txt {
+        font-size: 20px;
+        line-height: 1.5;
+        font-weight: 500;
+        letter-spacing: 0.39px;
+        text-transform: none;
+    }
+    
+}
+.drop-app-sec-1 .box-position.drop-banner-content-box {
+    position: absolute;
+    top: 50%;
+    left: 0; 
+    z-index: 10;
+    margin-top: -237px;
+        
+}
+.option-downloaded-txt {
+    p {
+        font-size: 10px;
+        color: #000;
+        font-weight: normal;
+        margin-bottom: 0;
+        letter-spacing: 0;
+        text-transform: uppercase;
+    }
+     strong.store-txt {
+        position: relative;
+        display: block;
+        margin-top: 5px;
+        padding-bottom: 11px;
+        font-weight: 900;
+        font-size: 13px;
+}
+    strong::before {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        z-index: 0;
+        content: " ";
+        width: 30px;
+        height: 1px;
+        background-color: #000;
+        transition: all 0.3s ease-in-out;
+    }
+}
+.drop-over-view {
+    .over-view-box:nth-child(1) .box-comm {
+        background: #ec3851;
+    }
+    .over-view-box:nth-child(1) .box-comm p {
+        color: #fff;
+    }
+}
+.drop-sec-2 {
+    padding-bottom: 7rem;
+
+    .bridger-sec-text {
+        padding-left: calc(100% - 94%);
+        padding-right: calc(100% - 60%);
+    }
+}
+.drop-sec-3 {
+    .content-heading h3 {
+        font-weight: bold;
+    }
+    .content:hover .content-heading h3 {
+        color: #ec3e54; 
+    }
+    .content:hover .border-btn {
+        opacity: 0;
+        
+    }
+
+}
+
+.drop-sec-3 .content-footer {
+    position: absolute;
+    text-align: left;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    width: 100%;
+    bottom: 10%;
+    left: 0;
+
+    .border-btn {
+        font-size: 18px;
+        line-height: 1.44;
+        color: #ffffff;
+        font-weight: 500;
+        border: solid 1px #ffffff;
+        border-radius: 0;
+        -webkit-transition: all 0.5s ease-in-out 0s;
+        -moz-transition: all 0.5s ease-in-out 0s;
+        transition: all 0.5s ease-in-out 0s;
+    }
+    
+}
+.drop-sec-4 {
+   .drop-logo-shape { 
+       width: calc(100% - 78%);
+       padding-bottom: 3rem;
+       position: absolute;
+       bottom: 12rem;
+       right: calc(100% - 100px);
+   }
+   .drop-logo-shape img { 
+       width: 100%;
+       -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+   } 
+}
+.drop-sec-5 {
+    width:100%;
+    background:url(../images/drop-pink-bg@4x.png);
+    background-repeat:no-repeat;
+    background-size: 100% 111%;
+    background-position: 100% 20px;
+    padding: 0;
+    .select-your-sec-box {
+        padding: 0 7rem 0;
+    }   
+    .select-your-txt {
+        padding: 0 3rem 0 3rem;
+    }
+    .select-your-txt h3 {
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 1.11;   
+        color: #000000;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+        position: relative;
+    }
+    .select-your-txt h3:before{
+        position: absolute;
+        top: 5px;
+        left: -30px;
+        z-index: 1;
+        content: "";
+        width: 9px; 
+        height: 9px; 
+        background: #000;
+        border-radius: 50%;
+
+        }
+    .select-your-txt p {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.56;    
+        color: #6a6a6a;
+        margin-bottom: 5rem;
+    }
+    .select-your-txt p:last-child {
+        margin-bottom: 0;
+    }
+    .londonrag-promo-image {
+        padding-bottom: 8rem;
+    }
+}
+.drop-sofy.sofy-portfolio-sec-2 {
+    padding: 5rem 0;
+}
+.drop-sofy {
+    .comm-works.bg-pink {
+        background-color: #ec3a51;
+    }
+    .sofy-solutions h3 {
+        color: #fff;
+    }
+}
+.drop-sec-7 {
+    padding-bottom: 2rem;
+}
+.drop-sec-9 {
+    padding-top: 2rem;
+}
+
+/* PORTFOLIO FREIGHTALIA PAGE */ 
+.wraper-freightalia-hero-banner {
+    .toonyport-hero-banner {
+        .toonyport-hero-banner-image > .holder > .data .data-main {
+            margin-top: 26%;
+            margin-bottom: 32px;
+        }
+        .toonyport-hero-banner-image > .holder > .data .data-main p {
+            font-size: 52px;
+            font-weight: bold;
+            line-height: 1.12;
+            letter-spacing: 0.19px;
+            text-align: center;
+          } 
+          .other-container {
+            max-width: 1300px;
+            position: relative;
+            top: 0;
+            padding-bottom: 80px;
+            margin-top: -478px;
+          } 
+          .toonyport-hero-banner-image > .holder > .pic img {
+            height: 980px;
+        }
+    }
+    
+}
+
+.freightalia-section2 {
+    .freightalia-overview {
+        padding: 3rem 0 5rem 0;
+        .bridger-sec-text {
+            max-width: 65%;
+            h4 {
+                font-size: 30px;
+            }
+            p {
+                font-size: 16px;
+                line-height: 1.5;
+            }
+        }
+         
+    }
+    .freightalia-your-sec-box {
+        padding: 0 7rem 6rem 7rem;
+        .select-your-txt {
+            padding: 0 9rem;
+
+        h3 {
+            font-size: 18px;
+            font-weight: 900;
+            line-height: 1.11;
+            color: #000;
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            position: relative;
+        }
+        h3::before {
+            position: absolute;
+            top: 5px;
+            left: -30px;
+            z-index: 1;
+            content: "";
+            width: 9px;
+            height: 9px;
+            background: 
+            #0282e3;
+            border-radius: 50%;
+        }
+        p {
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.56;
+            color: #6a6a6a;
+            margin-bottom: 4rem;
+            min-height: 100px;
+        }
+        } 
+      .freightalia-screen-holder {
+          padding: 0px 1rem;
+      }        
+    }
+}
+
+.freightalia-section3 {
+    padding: 0 7rem 6rem 7rem;
+    .bridger-sec-text {
+        max-width: 54%;
+        h4 { 
+            font-size: 24px; 
+            margin-bottom: 2rem;
+        }
+        p { 
+            font-size: 18px; 
+            line-height: 1.67; 
+            margin-bottom: 3rem; 
+        }
+    }
+}
+.freightalia-section4 {
+    .bridger-sec-text h4 {
+        font-weight: normal;
+    }
+    .section_title {
+        padding-bottom: 30px;
+    }
+}
+.wraper-result {
+    .container {
+        padding-top: 100px;
+    }
+}
+
+/* END PORTFOLIO FREIGHTALIA PAGE */
+
+
+
+
+/* =========================== */
+/* END OF SUDIPTO CSS - 04-02-2021 */
+/* =========================== */
+

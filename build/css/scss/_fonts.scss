@@ -1,0 +1,95 @@
+/* CircularStd */
+
+@font-face{
+        font-family:'CircularStd';
+            src:url('../fonts/CircularStd-Book.eot');
+            src:url('../fonts/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/CircularStd-Book.woff') format('woff'),
+            url('../fonts/CircularStd-Book.ttf') format('truetype'),
+            url('../fonts/CircularStd-Book.svg#bcc26993292869431e54c666aafa8fcd') format('svg');
+            font-weight:400;
+            font-style:normal;
+        font-display:swap;
+    }
+    
+    @font-face{
+        font-family:'CircularStd-Bold';
+            src:url('../fonts/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/CircularStd-Bold.otf') format('opentype'),
+            url('../fonts/CircularStd-Bold.woff') format('woff'),
+            url('../fonts/CircularStd-Bold.ttf') format('truetype'),
+            url('../fonts/CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+            font-weight:normal;
+            font-style:normal;
+         font-display:swap;
+    }
+    
+    /* Sofia Pro */
+    
+    @font-face{
+        font-family:'Sofia Pro';
+        src:url('../fonts/SofiaPro-Light.eot');
+        src:url('../fonts/SofiaPro-Light.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/SofiaPro-Light.woff') format('woff'),
+            url('../fonts/SofiaPro-Light.ttf') format('truetype');
+        font-weight:300;
+        font-style:normal;
+        font-display:swap;
+    }
+    
+    @font-face{
+        font-family:'Sofia Pro';
+        src:url('../fonts/SofiaProRegular.eot');
+        src:url('../fonts/SofiaProRegular.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/SofiaProRegular.woff') format('woff'),
+            url('../fonts/SofiaProRegular.ttf') format('truetype');
+        font-weight:normal;
+        font-style:normal;
+        font-display:swap;
+    }
+    
+    @font-face{
+        font-family:'Sofia Pro';
+        src:url('../fonts/SofiaPro-Medium.eot');
+        src:url('../fonts/SofiaPro-Medium.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/SofiaPro-Medium.woff') format('woff'),
+            url('../fonts/SofiaPro-Medium.ttf') format('truetype');
+        font-weight:500;
+        font-style:normal;
+        font-display:swap;
+    }
+    
+    @font-face{
+        font-family:'Sofia Pro Semi';
+        src:url('../fonts/SofiaPro-SemiBold.eot');
+        src:url('../fonts/SofiaPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/SofiaPro-SemiBold.woff') format('woff'),
+            url('../fonts/SofiaPro-SemiBold.ttf') format('truetype');
+        font-weight:600;
+        font-style:normal;
+        font-display:swap;
+    }
+    
+    @font-face{
+        font-family:'Sofia Pro';
+        src:url('../fonts/SofiaPro-Bold.eot');
+        src:url('../fonts/SofiaPro-Bold.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/SofiaPro-Bold.woff') format('woff'),
+            url('../fonts/SofiaPro-Bold.ttf') format('truetype');
+        font-weight:700;
+        font-style:normal;
+        font-display:swap;
+    }
+    
+    @font-face{
+        font-family:'Sofia Pro';
+        src:url('../fonts/SofiaPro-Black.eot');
+        src:url('../fonts/SofiaPro-Black.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/SofiaPro-Black.woff') format('woff'),
+            url('../fonts/SofiaPro-Black.ttf') format('truetype');
+        font-weight:900;
+        font-style:normal;
+        font-display:swap;
+    }
+    
+    
